@@ -4,6 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pandas = "*"
+awscli = "*"
+jupyter = "*"
+boto3 = "*"
+python-dotenv = "*"
+pyarrow = "*"
+pyyaml = "*"
+pylint = "*"
+moto = "*"
+coverage = "*"
 
 [dev-packages]
 
